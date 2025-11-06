@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Quadratic Equations - Intro",
+    "subjectId": "mathematics",
+    "type": "video",
+    "url": "https://www.youtube.com/embed/3nJ1a7u3mRo",
+    "notes": "10 min video - basics"
+  },
+  {
+    "title": "Cell Structure & Functions",
+    "subjectId": "biology",
+    "type": "video",
+    "url": "https://www.youtube.com/embed/URUJD5NEXC8",
+    "notes": "12 min"
+  },
+  {
+    "title": "Atomic Structure Summary",
+    "subjectId": "chemistry",
+    "type": "audio",
+    "url": "https://file-examples.com/wp-content/uploads/2017/11/file_example_WAV_1MG.wav",
+    "notes": "8 min audio"
+  },
+  {
+    "title": "Electricity - Basic Concepts",
+    "subjectId": "physics",
+    "type": "video",
+    "url": "https://www.youtube.com/embed/3eVq4I3xkzM",
+    "notes": "14 min"
+  },
+  {
+    "title": "Business Studies: Accounting Basics",
+    "subjectId": "business",
+    "type": "video",
+    "url": "https://www.youtube.com/embed/2gGvVq7ZQ8U",
+    "notes": "15 min"
+  },
+  {
+    "title": "Spanish: Greetings",
+    "subjectId": "spanish",
+    "type": "audio",
+    "url": "https://file-examples.com/wp-content/uploads/2017/11/file_example_WAV_1MG.wav",
+    "notes": "Listening practice"
+  },
+  {
+    "title": "Music: Rhythm 101",
+    "subjectId": "music",
+    "type": "video",
+    "url": "https://www.youtube.com/embed/1OeGL3w6u_c",
+    "notes": "Beat-making intro"
+  }
+]

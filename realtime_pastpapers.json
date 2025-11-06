@@ -1,0 +1,34 @@
+[
+  {
+    "subjectId": "mathematics",
+    "year": 2022,
+    "paper": 1,
+    "title": "KCSE Mathematics 2022 Paper 1",
+    "url": "https://www.cs.duke.edu/~ola/Maths/sample.pdf",
+    "notes": ""
+  },
+  {
+    "subjectId": "mathematics",
+    "year": 2021,
+    "paper": 2,
+    "title": "KCSE Mathematics 2021 Paper 2",
+    "url": "https://www.cs.duke.edu/~ola/Maths/sample.pdf",
+    "notes": ""
+  },
+  {
+    "subjectId": "english",
+    "year": 2023,
+    "paper": 1,
+    "title": "KCSE English 2023 Paper 1",
+    "url": "https://www.cs.duke.edu/~ola/Maths/sample.pdf",
+    "notes": ""
+  },
+  {
+    "subjectId": "biology",
+    "year": 2020,
+    "paper": 1,
+    "title": "KCSE Biology 2020 Paper 1",
+    "url": "https://www.cs.duke.edu/~ola/Maths/sample.pdf",
+    "notes": ""
+  }
+]

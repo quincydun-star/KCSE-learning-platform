@@ -1,0 +1,7 @@
+body { margin:0; font-family: Inter, system-ui, Arial, sans-serif; background:#f4f6fb; color:#111827; }
+.topbar { display:flex; align-items:center; justify-content:space-between; padding:12px 20px; background:white; border-bottom:1px solid #e5e7eb; }
+.topbar nav a { margin:0 8px; text-decoration:none; color:#374151; }
+.app-root main { padding:20px; }
+button { cursor:pointer; }
+.brand { font-weight:700; }
+.auth-area { display:flex; gap:8px; align-items:center; }

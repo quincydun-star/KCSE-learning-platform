@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Mathematics - Algebra Quick Quiz",
+    "subjectId": "mathematics",
+    "description": "Quick algebra quiz",
+    "questions": [
+      {
+        "text": "Solve: 2x + 3 = 11. What is x?",
+        "options": [
+          "3",
+          "4",
+          "5",
+          "2"
+        ],
+        "correct": "4"
+      },
+      {
+        "text": "If x^2 = 49, x = ?",
+        "options": [
+          "-7 only",
+          "7 only",
+          "\u00b17",
+          "0"
+        ],
+        "correct": "\u00b17"
+      }
+    ]
+  },
+  {
+    "title": "Biology - Respiration Basics",
+    "subjectId": "biology",
+    "description": "Short MCQ quiz on respiration",
+    "questions": [
+      {
+        "text": "Where does aerobic respiration mainly occur in the cell?",
+        "options": [
+          "Cytoplasm",
+          "Nucleus",
+          "Mitochondrion",
+          "Ribosome"
+        ],
+        "correct": "Mitochondrion"
+      },
+      {
+        "text": "Which gas is consumed during aerobic respiration?",
+        "options": [
+          "Oxygen",
+          "Carbon dioxide",
+          "Nitrogen",
+          "Hydrogen"
+        ],
+        "correct": "Oxygen"
+      }
+    ]
+  }
+]

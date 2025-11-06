@@ -1,0 +1,86 @@
+[
+  {
+    "id": "english",
+    "name": "English",
+    "category": "Core",
+    "description": "English Language and Comprehension"
+  },
+  {
+    "id": "kiswahili",
+    "name": "Kiswahili",
+    "category": "Core",
+    "description": "Kiswahili Language and Comprehension"
+  },
+  {
+    "id": "mathematics",
+    "name": "Mathematics",
+    "category": "Core",
+    "description": "Pure and Applied Mathematics"
+  },
+  {
+    "id": "biology",
+    "name": "Biology",
+    "category": "Sciences",
+    "description": "Biology (Life Sciences)"
+  },
+  {
+    "id": "physics",
+    "name": "Physics",
+    "category": "Sciences",
+    "description": "Physics (Mechanics, Optics, Electricity)"
+  },
+  {
+    "id": "chemistry",
+    "name": "Chemistry",
+    "category": "Sciences",
+    "description": "Chemistry (Organic, Inorganic)"
+  },
+  {
+    "id": "geography",
+    "name": "Geography",
+    "category": "Humanities",
+    "description": "Geography and Environmental Studies"
+  },
+  {
+    "id": "cre",
+    "name": "Christian Religious Education (CRE)",
+    "category": "Humanities",
+    "description": "CRE"
+  },
+  {
+    "id": "business",
+    "name": "Business Studies",
+    "category": "Humanities",
+    "description": "Business Studies (replaces History & Government)"
+  },
+  {
+    "id": "computer",
+    "name": "Computer Studies",
+    "category": "Technical",
+    "description": "Computer Studies & ICT"
+  },
+  {
+    "id": "agriculture",
+    "name": "Agriculture",
+    "category": "Technical",
+    "description": "Agriculture and Crop Production"
+  },
+  {
+    "id": "home_science",
+    "name": "Home Science",
+    "category": "Technical",
+    "description": "Home Science and Practical Skills"
+  },
+  {
+    "id": "spanish",
+    "name": "Spanish",
+    "category": "Foreign",
+    "description": "Spanish Language (elective)"
+  },
+  {
+    "id": "music",
+    "name": "Music",
+    "category": "Creative",
+    "description": "Music and Beat-making"
+  }
+]
